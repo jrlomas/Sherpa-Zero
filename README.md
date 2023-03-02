@@ -9,7 +9,7 @@ For ultimate performance in terms of elimination of [Issue #6](https://github.co
 Pushing the screw against the shaft too tightly will cause the front gears to wear out prematurely. 
 On the STL directory there is a version of the front housing for the mantis toolhead (do not print this STL if you do not intend on mounting the Sherpa Zero on a mantis toolhead).
 
-![Sherpa One Headshot Left](Images/sherpa_zero.PNG)
+![Sherpa One Headshot Left](Images/sherpa_zero.png)
 
 ## Mechanics
 The extruder uses the main housing and the front housing to support the idler gear in a floating configuration.  The guilder then pushes against the inner right hand-size of the idler gear, and a M3 screw pushes against the left hand-size of the idler gear.  It effectively makes the angle of the shaft adjustable, as to mesh the front gears without any backlash.
